@@ -43,10 +43,6 @@ python main.py
 - All Python bytecode, build artifacts, and the `output/` directory are git-ignored.
 - Extend the agent by adding new tools in `sentient_agent/tools/` or new memory modules in `sentient_agent/memory/`.
 
-## License
-
-Specify your license here.
-
 ## Tech Stack
 
 This project is built using the **Google Agent Development Kit** as its primary framework, along with:
